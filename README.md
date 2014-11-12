@@ -51,11 +51,8 @@ Ref :
 -http://diydrones.com/profiles/blogs/quad-rotor-observer-v5-flights
 
 Reffered Schematic Diagrams:
-<img src="http://api.ning.com/files/HcZUn-GL6ra1cwMfDJLOdGkQAOE52UIJdpU3DxkNLTOvU9uBHts207Xv4S8f*HwwxPyQhN3T1bKSgCTDRMbVTA__/mainboard_blue_2.jpg"></img>
 
+<img src="http://api.ning.com/files/HcZUn-GL6ra1cwMfDJLOdGkQAOE52UIJdpU3DxkNLTOvU9uBHts207Xv4S8f*HwwxPyQhN3T1bKSgCTDRMbVTA__/mainboard_blue_2.jpg"></img>
 <img src="http://api.ning.com/files/N-m37Ss5uFpmbtOBgphamvIwLgBXfJZDlMczFx*uAv0T*F4DMNTu14ByO9FFd5Ge2IK1wyGCxPYeKbKF4tBhaw__/circuit_diagram.gif"></img>
 
-<img src="http://api.ning.com/files/*k*xFjnZH1yBcJjlFpTXQ6q*STnIsX6VV3eutRMGm1F2xbzY0JRpt5oQzxyvskKuxkKbKwILTyWi5sCHdQkOgQ__/QROkkfcv7.jpg"></img>
-
-<img src="http://api.ning.com/files/6YDaBEcOSu4nMW-lzIcsMkqof3ay0AygBzex6RYsFZluBXb5UcTV6abKspMbTVtt1cXmQ7PpTqtJm-QeSNqWUw__/partslist.jpg?width=750"></img>
 
