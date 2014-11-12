@@ -37,7 +37,12 @@ Planned features are:
 More features will be added as I expand the usage of my quadcopter.
 
 
+
 In order to use this sketch, you will need to install the libraries from [arducopter/libraries](https://github.com/sujitbehera27/RCQuadcopterProject/tree/master/libraries)
 on your computer.
-
+Future plan with RasberryPi Designs:
+<img src="https://ghowen.me/build-your-own-quadcopter-autopilot/ratepid.png"></img>
 <img src="https://ghowen.me/build-your-own-quadcopter-autopilot/overallpid.png"></img>
+<img src="https://ghowen.me/build-your-own-quadcopter-autopilot/rpi.png"></img>
+<br>
+[(Ref : https://ghowen.me/build-your-own-quadcopter-autopilot/)]
