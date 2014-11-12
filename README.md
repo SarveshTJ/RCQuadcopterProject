@@ -47,8 +47,8 @@ Future plan with RasberryPi Designs:
 <br>
 
 Ref :
--https://ghowen.me/build-your-own-quadcopter-autopilot/
--http://diydrones.com/profiles/blogs/quad-rotor-observer-v5-flights
+1>https://ghowen.me/build-your-own-quadcopter-autopilot/
+2>http://diydrones.com/profiles/blogs/quad-rotor-observer-v5-flights
 
 Reffered Schematic Diagrams:
 
