@@ -40,19 +40,22 @@ More features will be added as I expand the usage of my quadcopter.
 
 In order to use this sketch, you will need to install the libraries from [arducopter/libraries](https://github.com/sujitbehera27/RCQuadcopterProject/tree/master/libraries)
 on your computer.
+
 Future plan with RasberryPi Designs:
-<img src="https://ghowen.me/build-your-own-quadcopter-autopilot/ratepid.png"></img>
-<img src="https://ghowen.me/build-your-own-quadcopter-autopilot/overallpid.png"></img>
-<img src="https://ghowen.me/build-your-own-quadcopter-autopilot/rpi.png"></img>
-<br>
+
+
+- <img src="https://ghowen.me/build-your-own-quadcopter-autopilot/ratepid.png"></img>
+- <img src="https://ghowen.me/build-your-own-quadcopter-autopilot/overallpid.png"></img>
+- <img src="https://ghowen.me/build-your-own-quadcopter-autopilot/rpi.png"></img>
+
 
 Ref :
-1>https://ghowen.me/build-your-own-quadcopter-autopilot/
-2>http://diydrones.com/profiles/blogs/quad-rotor-observer-v5-flights
+-  https://ghowen.me/build-your-own-quadcopter-autopilot/
+-  http://diydrones.com/profiles/blogs/quad-rotor-observer-v5-flights
 
 Reffered Schematic Diagrams:
 
-<img src="http://api.ning.com/files/HcZUn-GL6ra1cwMfDJLOdGkQAOE52UIJdpU3DxkNLTOvU9uBHts207Xv4S8f*HwwxPyQhN3T1bKSgCTDRMbVTA__/mainboard_blue_2.jpg"></img>
-<img src="http://api.ning.com/files/N-m37Ss5uFpmbtOBgphamvIwLgBXfJZDlMczFx*uAv0T*F4DMNTu14ByO9FFd5Ge2IK1wyGCxPYeKbKF4tBhaw__/circuit_diagram.gif"></img>
+-  <img src="http://api.ning.com/files/HcZUn-GL6ra1cwMfDJLOdGkQAOE52UIJdpU3DxkNLTOvU9uBHts207Xv4S8f*HwwxPyQhN3T1bKSgCTDRMbVTA__/mainboard_blue_2.jpg"></img>
+-  <img src="http://api.ning.com/files/N-m37Ss5uFpmbtOBgphamvIwLgBXfJZDlMczFx*uAv0T*F4DMNTu14ByO9FFd5Ge2IK1wyGCxPYeKbKF4tBhaw__/circuit_diagram.gif"></img>
 
 
